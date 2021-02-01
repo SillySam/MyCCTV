@@ -1,6 +1,14 @@
 ## My CCTV
 
+
 A webapp to display multiple CCTV sources in one easy to organise page, allowing them to be saved and viewed in a timelapse. Someone with access to public CCTV cameras in their town may want to use this to see what is going on, even when they are away from their computer.
+
+### Note!
+This project was a learning experience using React and Node.
+There are much better alternatives (that work :D), such as Shinobi.
+https://gitlab.com/Shinobi-Systems/Shinobi
+
+This project also has many security vulnerabilities from the npm packages used - procede with caution.
 
 ### Setup the server
 
